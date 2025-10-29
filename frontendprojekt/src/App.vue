@@ -1,9 +1,9 @@
 <script setup>
-import NyHeader from './components/NyHeader.vue';
+import OpskriftSøger from './components/OpskriftSøger.vue';
 </script>
 
 <template>
-  <NyHeader/>
+  <OpskriftSøger/>
 </template>
 
 <style scoped>
